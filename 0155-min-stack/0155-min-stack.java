@@ -1,7 +1,7 @@
 class MinStack {
-   private Stack<Integer> stack;
-   private Stack<Integer> minStack;
 
+   private Stack<Integer> stack;
+   private Stack<Integer> minStack; // to keep track the min value *even it pop up from the stack* thats why tack min with simple integer value will not work
 
     public MinStack() {
          stack = new Stack<>();
@@ -10,14 +10,14 @@ class MinStack {
     
     public void push(int val) {
         stack.push(val);
-        if(    minStack.isEmpty() || val <= minStack.peek()){
+
+        if(minStack.isEmpty() || val <= minStack.peek()){
              minStack.push(val);
         }
     
     }
     
     public void pop() {
-
         if(!stack.isEmpty()){
             int poped = stack.pop();     
             if(poped == minStack.peek())  
@@ -29,7 +29,6 @@ class MinStack {
     
     public int top() {
          if(!stack.isEmpty()){
-         
             return stack.peek();
         }else {
            throw new RuntimeException("Stack is empty");
@@ -38,8 +37,7 @@ class MinStack {
     
     public int getMin() {
         if(!minStack.isEmpty()){
-            
-        return minStack.peek();
+           return minStack.peek();
         }else {
             throw new RuntimeException("Stack is empty");
         }
