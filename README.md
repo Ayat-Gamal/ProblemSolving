@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AyatGaa/ProblemSolving/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/AyatGaa/ProblemSolving/tree/master/0134-gas-station) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/AyatGaa/ProblemSolving/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
