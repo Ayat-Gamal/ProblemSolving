@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AyatGaa/ProblemSolving/tree/master/0070-climbing-stairs) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/AyatGaa/ProblemSolving/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Dynamic Programming
 |  |
 | ------- |
