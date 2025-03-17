@@ -50,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyatGaa/ProblemSolving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2665-minimum-time-to-repair-cars](https://github.com/AyatGaa/ProblemSolving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyatGaa/ProblemSolving/tree/master/2690-house-robber-iv) |
 ## Greedy
 |  |
@@ -62,6 +63,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [2665-minimum-time-to-repair-cars](https://github.com/AyatGaa/ProblemSolving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyatGaa/ProblemSolving/tree/master/2690-house-robber-iv) |
 ## Bit Manipulation
 |  |
