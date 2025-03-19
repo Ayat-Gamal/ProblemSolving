@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0148-sort-list](https://github.com/AyatGaa/ProblemSolving/tree/master/0148-sort-list) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
+| [2551-apply-operations-to-an-array](https://github.com/AyatGaa/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +46,7 @@ This repository contains my solutions to LeetCode problems.
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyatGaa/ProblemSolving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AyatGaa/ProblemSolving/tree/master/2478-longest-nice-subarray) |
+| [2551-apply-operations-to-an-array](https://github.com/AyatGaa/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AyatGaa/ProblemSolving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyatGaa/ProblemSolving/tree/master/2690-house-robber-iv) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyatGaa/ProblemSolving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -84,4 +86,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyatGaa/ProblemSolving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/AyatGaa/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
