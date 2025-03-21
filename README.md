@@ -34,16 +34,19 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0807-custom-sort-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0807-custom-sort-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyatGaa/ProblemSolving/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
 | [0807-custom-sort-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0807-custom-sort-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Array
 |  |
 | ------- |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyatGaa/ProblemSolving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AyatGaa/ProblemSolving/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/AyatGaa/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
@@ -99,5 +102,10 @@ This repository contains my solutions to LeetCode problems.
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AyatGaa/ProblemSolving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
