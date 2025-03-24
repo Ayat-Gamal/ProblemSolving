@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems.
 | [2308-divide-array-into-equal-pairs](https://github.com/AyatGaa/ProblemSolving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AyatGaa/ProblemSolving/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/AyatGaa/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyatGaa/ProblemSolving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AyatGaa/ProblemSolving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyatGaa/ProblemSolving/tree/master/2690-house-robber-iv) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AyatGaa/ProblemSolving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -69,6 +70,7 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Search
 |  |
 | ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyatGaa/ProblemSolving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AyatGaa/ProblemSolving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyatGaa/ProblemSolving/tree/master/2690-house-robber-iv) |
 ## Bit Manipulation
@@ -82,6 +84,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyatGaa/ProblemSolving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyatGaa/ProblemSolving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
