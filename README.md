@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/AyatGaa/ProblemSolving/tree/master/0035-search-insert-position) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -70,6 +71,7 @@ This repository contains my solutions to LeetCode problems.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AyatGaa/ProblemSolving/tree/master/0035-search-insert-position) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyatGaa/ProblemSolving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AyatGaa/ProblemSolving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyatGaa/ProblemSolving/tree/master/2690-house-robber-iv) |
