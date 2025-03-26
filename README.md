@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/AyatGaa/ProblemSolving/tree/master/0058-length-of-last-word) |
 | [0807-custom-sort-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0807-custom-sort-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Array
