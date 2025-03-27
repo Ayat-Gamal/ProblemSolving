@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0027-remove-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AyatGaa/ProblemSolving/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/AyatGaa/ProblemSolving/tree/master/0066-plus-one) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -122,4 +123,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/AyatGaa/ProblemSolving/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
