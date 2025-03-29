@@ -75,6 +75,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AyatGaa/ProblemSolving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AyatGaa/ProblemSolving/tree/master/0069-sqrtx) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyatGaa/ProblemSolving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AyatGaa/ProblemSolving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyatGaa/ProblemSolving/tree/master/2690-house-robber-iv) |
@@ -131,4 +132,5 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0066-plus-one](https://github.com/AyatGaa/ProblemSolving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AyatGaa/ProblemSolving/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/AyatGaa/ProblemSolving/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
