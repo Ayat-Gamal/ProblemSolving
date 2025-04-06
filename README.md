@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyatGaa/ProblemSolving/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/AyatGaa/ProblemSolving/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -130,7 +131,12 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyatGaa/ProblemSolving/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AyatGaa/ProblemSolving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AyatGaa/ProblemSolving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AyatGaa/ProblemSolving/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AyatGaa/ProblemSolving/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
