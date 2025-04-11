@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0027-remove-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AyatGaa/ProblemSolving/tree/master/0148-sort-list) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [2551-apply-operations-to-an-array](https://github.com/AyatGaa/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
@@ -25,6 +26,7 @@ This repository contains my solutions to LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AyatGaa/ProblemSolving/tree/master/0148-sort-list) |
 | [0807-custom-sort-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0807-custom-sort-string) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
@@ -53,6 +55,7 @@ This repository contains my solutions to LeetCode problems.
 | [0027-remove-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AyatGaa/ProblemSolving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AyatGaa/ProblemSolving/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
