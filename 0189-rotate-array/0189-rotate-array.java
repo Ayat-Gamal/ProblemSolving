@@ -6,7 +6,12 @@ class Solution {
     
      solution 1 = use extra space  space O(N)
      solution 2 = in palce array,, we will use reverse
-    
+            1 2 3 4 5 6 7    k = 3   k%n = 3% 7 = 3
+    rev 1:  7 6 5 4 3 2 1
+    rev 2:  5 6 7 4 3 2 1
+    rev 3:  5 6 7 1 2 3 4 
+
+
      */
     public void rotate(int[] nums, int k) {
         //  solution 2
