@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AyatGaa/ProblemSolving/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0189-rotate-array) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [2551-apply-operations-to-an-array](https://github.com/AyatGaa/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
@@ -56,6 +57,7 @@ This repository contains my solutions to LeetCode problems.
 | [0035-search-insert-position](https://github.com/AyatGaa/ProblemSolving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AyatGaa/ProblemSolving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0189-rotate-array) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -138,6 +140,7 @@ This repository contains my solutions to LeetCode problems.
 | [0066-plus-one](https://github.com/AyatGaa/ProblemSolving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AyatGaa/ProblemSolving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AyatGaa/ProblemSolving/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
