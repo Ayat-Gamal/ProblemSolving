@@ -27,11 +27,13 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AyatGaa/ProblemSolving/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AyatGaa/ProblemSolving/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0169-majority-element) |
 | [0807-custom-sort-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0807-custom-sort-string) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -42,6 +44,7 @@ This repository contains my solutions to LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0169-majority-element) |
 | [0807-custom-sort-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0807-custom-sort-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyatGaa/ProblemSolving/tree/master/2308-divide-array-into-equal-pairs) |
@@ -63,6 +66,7 @@ This repository contains my solutions to LeetCode problems.
 | [0066-plus-one](https://github.com/AyatGaa/ProblemSolving/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyatGaa/ProblemSolving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0189-rotate-array) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -102,6 +106,7 @@ This repository contains my solutions to LeetCode problems.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyatGaa/ProblemSolving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyatGaa/ProblemSolving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
