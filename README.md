@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 | [0151-reverse-words-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyatGaa/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/AyatGaa/ProblemSolving/tree/master/0392-is-subsequence) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [2551-apply-operations-to-an-array](https://github.com/AyatGaa/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
@@ -60,6 +61,7 @@ This repository contains my solutions to LeetCode problems.
 | [0067-add-binary](https://github.com/AyatGaa/ProblemSolving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AyatGaa/ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/AyatGaa/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0807-custom-sort-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0807-custom-sort-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Array
@@ -92,6 +94,7 @@ This repository contains my solutions to LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/AyatGaa/ProblemSolving/tree/master/0392-is-subsequence) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
 ## Binary Search
 |  |
