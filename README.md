@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyatGaa/ProblemSolving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AyatGaa/ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/AyatGaa/ProblemSolving/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyatGaa/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -57,6 +58,7 @@ This repository contains my solutions to LeetCode problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AyatGaa/ProblemSolving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AyatGaa/ProblemSolving/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/AyatGaa/ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0807-custom-sort-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0807-custom-sort-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
