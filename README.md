@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems.
 | [0066-plus-one](https://github.com/AyatGaa/ProblemSolving/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyatGaa/ProblemSolving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/AyatGaa/ProblemSolving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyatGaa/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0189-rotate-array) |
@@ -109,6 +110,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AyatGaa/ProblemSolving/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/AyatGaa/ProblemSolving/tree/master/0136-single-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyatGaa/ProblemSolving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AyatGaa/ProblemSolving/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AyatGaa/ProblemSolving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
