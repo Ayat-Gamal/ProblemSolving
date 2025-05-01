@@ -79,6 +79,7 @@ This repository contains my solutions to LeetCode problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyatGaa/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AyatGaa/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AyatGaa/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -106,6 +107,7 @@ This repository contains my solutions to LeetCode problems.
 | [0035-search-insert-position](https://github.com/AyatGaa/ProblemSolving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AyatGaa/ProblemSolving/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyatGaa/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AyatGaa/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyatGaa/ProblemSolving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AyatGaa/ProblemSolving/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyatGaa/ProblemSolving/tree/master/2690-house-robber-iv) |
@@ -128,6 +130,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyatGaa/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/AyatGaa/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AyatGaa/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [2478-longest-nice-subarray](https://github.com/AyatGaa/ProblemSolving/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyatGaa/ProblemSolving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -138,6 +141,7 @@ This repository contains my solutions to LeetCode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AyatGaa/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyatGaa/ProblemSolving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
