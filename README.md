@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyatGaa/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AyatGaa/ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0169-majority-element) |
 | [0807-custom-sort-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0807-custom-sort-string) |
@@ -55,6 +56,7 @@ This repository contains my solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyatGaa/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AyatGaa/ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AyatGaa/ProblemSolving/tree/master/0058-length-of-last-word) |
@@ -125,6 +127,7 @@ This repository contains my solutions to LeetCode problems.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyatGaa/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AyatGaa/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [2478-longest-nice-subarray](https://github.com/AyatGaa/ProblemSolving/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyatGaa/ProblemSolving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
