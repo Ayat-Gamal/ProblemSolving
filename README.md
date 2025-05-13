@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyatGaa/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AyatGaa/ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/AyatGaa/ProblemSolving/tree/master/0383-ransom-note) |
 | [0807-custom-sort-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0807-custom-sort-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyatGaa/ProblemSolving/tree/master/2308-divide-array-into-equal-pairs) |
@@ -63,6 +64,7 @@ This repository contains my solutions to LeetCode problems.
 | [0067-add-binary](https://github.com/AyatGaa/ProblemSolving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AyatGaa/ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/AyatGaa/ProblemSolving/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AyatGaa/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0807-custom-sort-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0807-custom-sort-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyatGaa/ProblemSolving/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -124,6 +126,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/AyatGaa/ProblemSolving/tree/master/0383-ransom-note) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyatGaa/ProblemSolving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyatGaa/ProblemSolving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
