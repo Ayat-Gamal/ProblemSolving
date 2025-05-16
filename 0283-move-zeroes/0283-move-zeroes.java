@@ -18,7 +18,12 @@ class Solution {
 
         for (int i = j + 1; i < n; i++) {
             if (nums[i] != 0) {
+                
                 nums[i] = nums[i] ^ nums[j] ^ (nums[j] = nums[i]);//swapping
+          
+            /*    int temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;*/
 
                 j++;
             }
