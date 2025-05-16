@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 | [0151-reverse-words-in-a-string](https://github.com/AyatGaa/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyatGaa/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AyatGaa/ProblemSolving/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AyatGaa/ProblemSolving/tree/master/0392-is-subsequence) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [2551-apply-operations-to-an-array](https://github.com/AyatGaa/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
@@ -84,6 +85,7 @@ This repository contains my solutions to LeetCode problems.
 | [0169-majority-element](https://github.com/AyatGaa/ProblemSolving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyatGaa/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/AyatGaa/ProblemSolving/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/AyatGaa/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [1009-pancake-sorting](https://github.com/AyatGaa/ProblemSolving/tree/master/1009-pancake-sorting) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
