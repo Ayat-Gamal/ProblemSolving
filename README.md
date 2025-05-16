@@ -105,6 +105,7 @@ This repository contains my solutions to LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AyatGaa/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/AyatGaa/ProblemSolving/tree/master/0392-is-subsequence) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AyatGaa/ProblemSolving/tree/master/1367-maximum-height-by-stacking-cuboids) |
 ## Binary Search
@@ -180,9 +181,14 @@ This repository contains my solutions to LeetCode problems.
 | [0066-plus-one](https://github.com/AyatGaa/ProblemSolving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AyatGaa/ProblemSolving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AyatGaa/ProblemSolving/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AyatGaa/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AyatGaa/ProblemSolving/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AyatGaa/ProblemSolving/tree/master/0002-add-two-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AyatGaa/ProblemSolving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
